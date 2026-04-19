@@ -118,13 +118,26 @@ Open app  →  See next exercise  →  Log set  →  PR badge  →  Next exercis
 
 <div align="center">
 
-<a href="https://github.com/StrevFit/strev-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StrevFit&repo=strev-web&theme=transparent&bg_color=0f172a&border_color=1e3a5f&title_color=56b8d4&text_color=94a3b8&icon_color=56b8d4" alt="strev-web" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/StrevFit/strev-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StrevFit&repo=strev-api&theme=transparent&bg_color=0f172a&border_color=1e3a5f&title_color=56b8d4&text_color=94a3b8&icon_color=56b8d4" alt="strev-api" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/StrevFit/strev-web">
+        <img src="https://img.shields.io/badge/strev--web-Frontend-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" /><br /><br />
+        <img src="https://img.shields.io/badge/React%2019-Vite%207-646cff?style=flat-square&logo=vite&logoColor=white&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/Tailwind%204-Framer-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0f172a" /><br />
+        <sub>Landing · Dashboard · Workout session · Metrics</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/StrevFit/strev-api">
+        <img src="https://img.shields.io/badge/strev--api-Backend-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f172a" /><br /><br />
+        <img src="https://img.shields.io/badge/Express%205-Node%2022-ffffff?style=flat-square&logo=express&logoColor=white&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/MongoDB-Zod-47a248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0f172a" /><br />
+        <sub>REST API · Auth · Gamification · AI · Payments</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
